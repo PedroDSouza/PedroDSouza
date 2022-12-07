@@ -3,11 +3,11 @@
 
 - 🔭 Desenvolvendo o sistema **Lunare**
 
-- 🌱 Aprendendo **Java, JavaScript, PHP**
+- 🌱 Aprendendo **Java, JavaScript, PHP, PascalScript (sim)**
 
-- 👯 Gostaria de colaborar em projetos  **Delphi**
+- 👯 Gostaria de colaborar em projetos  **Delphi, Laravel**
 
-- 🤝 Posso ajudar em  **Delphi/Lazarus**
+- 🤝 Posso ajudar em  **Delphi/Lazarus e Laravel**
 
 - 👨‍💻 Acesse meu portfólio: [https://bitbucket.org/pedrodsouza/lazarus/src/master/](https://bitbucket.org/pedrodsouza/lazarus/src/master/)
 
