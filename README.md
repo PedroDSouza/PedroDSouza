@@ -1,17 +1,6 @@
 <h1 align="center">Pedro de Souza</h1>
 <h3 align="center">Analista e Desenvolvedor de Sistemas</h3>
 
-- 🔭 Desenvolvendo o sistema **Lunare**
-
-- 🌱 Aprendendo **Java, JavaScript, PHP, PascalScript (sim)**
-
-- 👯 Gostaria de colaborar em projetos  **Delphi, Laravel**
-
-- 🤝 Posso ajudar em  **Delphi/Lazarus e Laravel**
-
-- 👨‍💻 Acesse meu portfólio: [https://bitbucket.org/pedrodsouza/lazarus/src/master/](https://bitbucket.org/pedrodsouza/lazarus/src/master/)
-
-- 📫 Me mande um e-mail: **pedrohodesouza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
