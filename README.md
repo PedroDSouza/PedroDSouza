@@ -1,5 +1,6 @@
 ### 👋🏻 Hey there! I'm Pedro de Souza! 😊
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDSouza)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect me with:
 
@@ -20,10 +21,10 @@
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </div>
 <div style="display: inline_block"/></br>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="MySQL" src="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 </br>
 </br>
 
-Contact directly to: pedrohodesouza@gmail.com for more info.
+Contact directly to: pedrohodesouza@gmail.com for more information.
 
