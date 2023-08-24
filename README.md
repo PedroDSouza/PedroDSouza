@@ -1,10 +1,13 @@
 ### 👋🏻 Hey there! I'm Pedro de Souza! 😊
 
-
+<div style="display:block">
 <img src="https://38.media.tumblr.com/f27ecb1a5ded14d54943b82e515e1974/tumblr_nltmxwgJUb1ts0gq9o1_400.gif"/>
+</div>
+
+<div style="display:block">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDSouza)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 ## Connect me with:
 
